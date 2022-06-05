@@ -71,6 +71,8 @@ flutter:
     - assets/coffee_concept/10.png
     - assets/coffee_concept/11.png
     - assets/coffee_concept/12.png
+    - assets/coffee_concept/logo.png
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
