@@ -1,5 +1,5 @@
 # coffee_example
-# this is my training video tutorial
+# this is my training by video tutorial
 
 # Author
 # Flutter Coffee App Animations | Flutter Challenge | Animaciones
